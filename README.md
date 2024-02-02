@@ -10,9 +10,9 @@ MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the
 
 A Streamlit-Powered Chat Tool for interpreting Multi-PDF Document using Four Large Language Models.
 
-|![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/DemoUI/Initial%20page%201.jpg?raw=true) | ![Image2](https://github.com/yaseen28/MedDoc-Bot/blob/main/DemoUI/Initial%20page%202.jpg?raw=true) |
+|![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide1.PNG?raw=true) | ![Image2](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide2.PNG?raw=true) |
 |:---:|:---:|
-|![Image1](https://github.com/oobabooga/screenshots/raw/main/print_default.png) | ![Image2](https://github.com/oobabooga/screenshots/raw/main/print_parameters.png) |
+|![Image1](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide3.PNG?raw=true) | ![Image2](https://github.com/yaseen28/MedDoc-Bot/blob/main/UI_ScreenShot/Slide4.PNG?raw=true) |
 
 
 ------------------------------------------------------------------------------
