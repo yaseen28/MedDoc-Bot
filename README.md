@@ -40,8 +40,18 @@ git clone https://github.com/yaseen28/MedDoc-Bot
 cd MedDoc-Bot
 pip install -r requirements.txt
 ```
+#### 4. Download the Four Pre-Quantised Language Models to the Porject Folder
 
-### Start the MedDoc-Bot
+```
+   (i) Llama-2 [Link](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)<br/>
+   (ii) MedAlpaca [Link]([https://huggingface.co/TheBloke/](https://huggingface.co/TheBloke/medalpaca-13B-GGUF)<br/>
+   (iii) Meditron [Link](https://huggingface.co/TheBloke/meditron-7B-GGUF)<br/>
+   (iv) Mistral [Link](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF)<br/>
+
+```
+
+
+### 5. Start the MedDoc-Bot
 
 ```
 conda activate MedDoc-Bot
@@ -52,7 +62,7 @@ streamlit run Main_MedDoc-Bot.py
 
   Local URL: http://localhost:8501
 
-### Provide Default Username and Password
+### 6. Provide Default Username and Password
 ```
 User
 User@123
