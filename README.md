@@ -52,10 +52,10 @@ pip install -r requirements.txt
 ```
 #### 5. Download the Four Pre-Quantised Language Models to the Project Folder
 
-   (i) Llama-2 [Link](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)<br/>
-   (ii) MedAlpaca [Link](https://huggingface.co/TheBloke/medalpaca-13B-GGUF)<br/>
-   (iii) Meditron [Link](https://huggingface.co/TheBloke/meditron-7B-GGUF)<br/>
-   (iv) Mistral [Link](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF)<br/>
+   (i) Llama-2 {Version: llama-2-13b.Q5_K_S.gguf} [Link](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)<br/>
+   (ii) MedAlpaca {Version: medalpaca-13b.Q5_K_S.gguf} [Link](https://huggingface.co/TheBloke/medalpaca-13B-GGUF)<br/>
+   (iii) Meditron {Version: meditron-7b.Q5_K_S.gguf} [Link](https://huggingface.co/TheBloke/meditron-7B-GGUF)<br/>
+   (iv) Mistral {Version: mistral-7b-instruct-v0.2.Q5_K_M.gguf} [Link](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF)<br/>
 
 ### 6. Start the MedDoc-Bot
 
