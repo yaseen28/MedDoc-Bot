@@ -50,7 +50,7 @@ git clone https://github.com/yaseen28/MedDoc-Bot
 cd MedDoc-Bot
 pip install -r requirements.txt
 ```
-#### 5. Download the Four Pre-Quantised Language Models to the Porject Folder
+#### 5. Download the Four Pre-Quantised Language Models to the Project Folder
 
    (i) Llama-2 [Link](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)<br/>
    (ii) MedAlpaca [Link](https://huggingface.co/TheBloke/medalpaca-13B-GGUF)<br/>
