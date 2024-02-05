@@ -1,4 +1,4 @@
-MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline<br/> (This article has been submitted as a full contributed paper for EMBC 2024.)
+MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline<br/> (The article has been submitted as a full paper for EMBC 2024.)
 ------------------------------------------------------------------------------
 1. The MedDoc-Bot interface [CODE](https://github.com/yaseen28/MedDoc-Bot/blob/main/Main_MedDoc-Bot.py) allows users to choose from four quantized Language Model Models (LLMs) to chat with multiple PDF documents.The models used for our evaluations are downloaded from huggingface (Link provided below).
 4. In a clinical use case, assessed each model's performance by interpreting the hypertension in children and adolescents ESC guidelines PDF document. [Source](https://academic.oup.com/eurheartj/article/43/35/3290/6633855)<br/>
