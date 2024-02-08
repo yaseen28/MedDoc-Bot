@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """This file extracts the texts from PDF document using langchain library. !! In addition you can use PDF24 application to convert PDF to text.
 
 The extracted files are then copied to word document for further processing such as Aranging in order and cleaning the text
