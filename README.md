@@ -1,6 +1,6 @@
 This repository contains the implementation of our full paper accepted for the IEEE EMBC 2024 Conference.
 
-You can access the article on [arXiv](https://arxiv.org/abs/2405.03359). If you use our work, please cite our article.
+You can access the article on [arXiv](https://arxiv.org/abs/2405.03359). 
 
 MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline<br/>
 ------------------------------------------------------------------------------
@@ -77,4 +77,15 @@ streamlit run Main_MedDoc-Bot.py
 User
 User@123
 ```
+
+If you find our work useful, please consider citing it.
+
+@misc{jabarulla2024meddocbot,
+      title={MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline}, 
+      author={Mohamed Yaseen Jabarulla and Steffen Oeltze-Jafra and Philipp Beerbaum and Theodor Uden},
+      year={2024},
+      eprint={2405.03359},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
