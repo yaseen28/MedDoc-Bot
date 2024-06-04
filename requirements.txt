@@ -1,18 +1,18 @@
-langchain==0.1.0
-langchain-community==0.0.16
+langchain
+langchain-community
 langchain-core==0.1.17
-torch==2.1.2+cu121
+torch
 torchvision==0.16.2+cu121
 accelerate==0.25.0
-sentence-transformers==2.2.2
+sentence-transformers
 sentencepiece==0.1.99
-streamlit==1.30.0
+streamlit
 streamlit-authenticator==0.3.1
-streamlit-chat==0.1.1
+streamlit-chat
 faiss==1.7.4
 tiktoken==0.5.2
 huggingface-hub==0.19.4
-pypdf==3.17.4
+pypdf
 PyPDF2==3.0.1
 llama_cpp_python @ https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/cpu/llama_cpp_python-0.2.23+cpuavx2-cp311-cp311-win_amd64.whl#sha256=fc7ecb58cc4d31e306d142423757b5ae0a59465d4c024446f6245b4cf7ce83f2
 llama_cpp_python_cuda @ https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/textgen-webui/llama_cpp_python_cuda-0.2.23+cu121-cp311-cp311-win_amd64.whl#sha256=02db38274b7ab62a898601702a6f55392638641b868bce389d7c7682717537da
