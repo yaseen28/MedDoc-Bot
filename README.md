@@ -61,6 +61,8 @@ pip install -r requirements.txt
    (iii) Meditron {Version: meditron-7b.Q5_K_S.gguf} [Link](https://huggingface.co/TheBloke/meditron-7B-GGUF)<br/>
    (iv) Mistral {Version: mistral-7b-instruct-v0.2.Q5_K_M.gguf} [Link](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF)<br/>
 
+   NOTE!! Please ensure that you rename the model file to match the name listed in the 'Select Model' dropdown in the browser. 
+
 ### 6. Start the MedDoc-Bot
 
 ```
