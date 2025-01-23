@@ -1,6 +1,7 @@
 This repository contains the implementation of our full paper accepted for the IEEE EMBC 2024 Conference.
 
-Cite this work
+If you find our work useful, please consider citing it.
+
 M. Y. Jabarulla, S. Oeltze-Jafra, P. Beerbaum and T. Uden, "MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline," 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL, USA, 2024, pp. 1-4, doi: 10.1109/EMBC53108.2024.10781509.
 
 You can access the full article on [arXiv](https://arxiv.org/abs/2405.03359). 
