@@ -1,6 +1,9 @@
 This repository contains the implementation of our full paper accepted for the IEEE EMBC 2024 Conference.
 
-You can access the article on [arXiv](https://arxiv.org/abs/2405.03359). 
+Cite this work
+M. Y. Jabarulla, S. Oeltze-Jafra, P. Beerbaum and T. Uden, "MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline," 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL, USA, 2024, pp. 1-4, doi: 10.1109/EMBC53108.2024.10781509.
+
+You can access the full article on [arXiv](https://arxiv.org/abs/2405.03359). 
 
 MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline<br/>
 ------------------------------------------------------------------------------
@@ -82,12 +85,15 @@ User@123
 
 If you find our work useful, please consider citing it.
 
-@misc{jabarulla2024meddocbot,
-      title={MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline}, 
-      author={Mohamed Yaseen Jabarulla and Steffen Oeltze-Jafra and Philipp Beerbaum and Theodor Uden},
-      year={2024},
-      eprint={2405.03359},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@INPROCEEDINGS{10781509,
+  author={Jabarulla, Mohamed Yaseen and Oeltze-Jafra, Steffen and Beerbaum, Philipp and Uden, Theodor},
+  booktitle={2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+  title={MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Hypertension;Measurement;Analytical models;Visualization;Large language models;Biological system modeling;Portable document format;Meteors;Reliability;Guidelines;Medical language models;Streamlit;Medical Guidelines PDF Chatbot;Clinical care},
+  doi={10.1109/EMBC53108.2024.10781509}}
 }
 
